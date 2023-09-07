@@ -13,6 +13,7 @@
     "electron": "^26.1.0",
     "typescript": "^5.0.2",
     "vite": "^4.4.5",
+    "vite-plugin-optimizer": "^1.4.2",
     "vue": "^3.3.4",
     "vue-tsc": "^1.8.5"
   }
